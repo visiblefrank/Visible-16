@@ -1,0 +1,12 @@
+.clip-text {
+  
+  /* if we can clip, do it */
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+
+  font: 16px helvetica, sans-serif;
+  background-image: url('img/HK_Portland_Street_Night.jpg');
+  color: red;
+ 
+}
+    
